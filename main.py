@@ -137,4 +137,4 @@ class MSTFinder:
         mst_edges.append((u_node, v_node, cost))
         total_cost += cost
 
-    return mst_edges, total_cost
+    return mst_edges, total_cos
