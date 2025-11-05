@@ -48,3 +48,9 @@ Para modelar y ejecutar el problema de manera efectiva, se asumieron los siguien
   Por lo tanto, el costo final del Objetivo 3 (Backtracking) solo incluye la suma de los tramos de entrega, sin añadir el costo de la vuelta a la base.
 
 
+## 🎭 Equipo:
+- Tomás Buriticá Jaramillo
+- Juan Esteban Vallejo Hincapié
+
+
+
